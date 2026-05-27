@@ -10,8 +10,10 @@ Currently exploring Microservices Architecture, Docker, Kafka, CI/CD, and cloud 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patle-4252aa257/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Harshpatle18/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/harshpatle18?tab=activity)
+[![Coding Ninjas](https://img.shields.io/badge/Code360-orange?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/Harshpatle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://harshpatle01.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_patle20)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HarshPatle20)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshpatle99999@gmail.com)
 
 ---
