@@ -47,11 +47,19 @@ Currently exploring Microservices Architecture, Docker, Kafka, CI/CD, and cloud 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=harshpatle10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+# 📈 Development Focus
 
-![](https://streak-stats.demolab.com/?user=harshpatle10&theme=dark&hide_border=false)
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-45%25-61DAFB?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML/CSS](https://img.shields.io/badge/HTML%20%26%20CSS-15%25-E34F26?style=for-the-badge&logo=html5)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshpatle10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### ⚙️ Backend Development
+![Java](https://img.shields.io/badge/Java-90%25-ED8B00?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-85%25-6DB33F?style=for-the-badge&logo=springboot)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-95%25-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
